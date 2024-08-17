@@ -2,9 +2,9 @@
 
 
 to start backend 
-cd backend
-node index.js
-make sure you installed mongodb in you system
+1. cd backend
+2. node index.js
+3. make sure you installed mongodb in you system
 
 
 for frontend
