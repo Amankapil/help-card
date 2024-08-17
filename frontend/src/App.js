@@ -61,7 +61,7 @@ const App = () => {
       <main className="max-wxl mx-auto max-md:p-6 text-center ">
         {/* Search Bar */}
         <div className="mb-8 h-[400px] bg-[#DADBF0] max-w-7l mx-auto my-auto pt-28">
-          <h1 className="text-3xl font-bold mb-4">How can we help?</h1>
+          <h1 className="text-[50px] font-bold mb-4">How can we help?</h1>
           <input
             type="text"
             placeholder="Search"
